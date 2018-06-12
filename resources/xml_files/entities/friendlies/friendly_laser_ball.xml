@@ -1,0 +1,27 @@
+
+<?xml version="1.0"?>
+<File>
+    <x>0</x>
+    <y>0</y>
+    <Point>
+      <x>10</x>
+      <y>-10</y>
+    </Point>
+    <Point>
+      <x>10</x>
+      <y>10</y>
+    </Point>
+    <Point>
+      <x>-10</x>
+      <y>10</y>
+    </Point>
+    <Point>
+      <x>-10</x>
+      <y>-10</y>
+    </Point>
+    
+    <friendly>true</friendly>
+    <shootingspeed_x>6</shootingspeed_x>
+    <shootingspeed_y>0</shootingspeed_y>
+    <range>50</range>
+</File>

@@ -1,0 +1,39 @@
+
+
+<?xml version="1.0"?>
+<File>
+    <x>0</x>
+    <y>0</y>
+    <x_speed>-4</x_speed>
+    <y_speed>0</y_speed>
+    <Point>
+      <x>0</x>
+      <y>-16</y>
+    </Point>
+    <Point>
+      <x>16</x>
+      <y>-6</y>
+    </Point>
+    <Point>
+      <x>16</x>
+      <y>3</y>
+    </Point>
+    <Point>
+      <x>0</x>
+      <y>15</y>
+    </Point>
+    <Point>
+      <x>-16</x>
+      <y>3</y>
+    </Point>
+    <Point>
+      <x>-16</x>
+      <y>-6</y>
+    </Point>
+    
+    <friendly>true</friendly>
+
+
+    <time>300</time>
+    <range_increase>20</range_increase>
+</File>

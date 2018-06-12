@@ -1,0 +1,27 @@
+
+
+<?xml version="1.0"?>
+<File>
+    <x>0</x>
+    <y>0</y>
+    <x_speed>-2</x_speed>
+    <y_speed>0</y_speed>
+    <Point>
+      <x>-24.9</x>
+      <y>-12.5</y>
+    </Point>
+    <Point>
+      <x>24.9</x>
+      <y>-12.5</y>
+    </Point>
+    <Point>
+      <x>24.9</x>
+      <y>12.5</y>
+    </Point>
+    <Point>
+      <x>-24.9</x>
+      <y>12.5</y>
+    </Point>
+    
+    <friendly>false</friendly>
+</File>

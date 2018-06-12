@@ -1,0 +1,55 @@
+
+<?xml version="1.0"?>
+<File>
+    <fase>
+        <menu>
+            <filename>resources/xml_files/menus/main_menu.xml</filename>
+        </menu>
+        <menu>
+            <filename>resources/xml_files/menus/options_menu.xml</filename>
+        </menu>
+    </fase>
+    <fase>
+        <menu>
+            <filename>resources/xml_files/menus/pause_menu.xml</filename>
+        </menu>
+        <menu>
+            <filename>resources/xml_files/menus/options_menu.xml</filename>
+        </menu>
+    </fase>
+    <fase>
+        <menu>
+            <filename>resources/xml_files/menus/victory_menu.xml</filename>
+        </menu>
+    </fase>
+    <fase>
+        <menu>
+            <filename>resources/xml_files//menus/game_over_menu.xml</filename>
+        </menu>
+    </fase>
+
+    <options>resources/xml_files/options.xml</options>
+    <textures>resources/xml_files/textures.xml</textures>
+    
+    <transformation_left>0</transformation_left>
+    <transformation_right>400</transformation_right>
+    <transformation_up>0</transformation_up>
+    <transformation_down>400</transformation_down>
+    <window_width>960</window_width>
+    <window_height>720</window_height>
+
+
+    <Level>
+        <spawns>resources/xml_files/levels/level_1.xml</spawns>
+        <factories>resources/xml_files/levels/level_1_game_objects.xml</factories>
+    </Level>
+    <Level>
+        <spawns>resources/xml_files/levels/level_2.xml</spawns>
+        <factories>resources/xml_files/levels/level_2_game_objects.xml</factories>
+    </Level>
+    <Level>
+        <spawns>resources/xml_files/levels/level_3.xml</spawns>
+        <factories>resources/xml_files/levels/level_3_game_objects.xml</factories>
+    </Level>
+
+</File>

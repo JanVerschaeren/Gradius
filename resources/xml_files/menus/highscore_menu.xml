@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<File>
+
+  <Menu>
+    <x_position>400</x_position>
+    <y_position>0</y_position>
+    <width_position>200</width_position>
+    <height_position>400</height_position>
+    <x_clip>5</x_clip>
+    <y_clip>5</y_clip>
+    <width_clip>95</width_clip>
+    <height_clip>295</height_clip>
+    <texture>drawfield</texture>
+    <running>true</running>
+    <name>highscore</name>
+  </Menu>
+
+  
+
+  <Widget>
+    <type>textfield</type>
+    <x_position>450</x_position>
+    <y_position>50</y_position>
+    <width_position>100</width_position>
+    <height_position>75</height_position>
+    <text>Options</text>
+    <click_offset>0</click_offset>
+    <char_length>10</char_length>
+    <r_draw>255</r_draw>
+    <g_draw>50</g_draw>
+    <b_draw>50</b_draw>
+    <r_clicked>255</r_clicked>
+    <g_clicked>50</g_clicked>
+    <b_clicked>50</b_clicked>
+    <font>arial.ttf</font>
+    <font_size>20</font_size>
+    <menu>highscore</menu>
+  </Widget>
+  <Widget>
+    <type>option_textfield</type>
+    <x_position>238</x_position>
+    <y_position>215</y_position>
+    <width_position>30</width_position>
+    <height_position>30</height_position>
+    <option>highscore</option>
+    <click_offset>0</click_offset>
+    <char_length>10</char_length>
+    <r_draw>0</r_draw>
+    <g_draw>0</g_draw>
+    <b_draw>0</b_draw>
+    <r_clicked>0</r_clicked>
+    <g_clicked>0</g_clicked>
+    <b_clicked>0</b_clicked>
+    <font>arial.ttf</font>
+    <font_size>20</font_size>
+    <menu>highscore</menu>
+  </Widget>
+</File>

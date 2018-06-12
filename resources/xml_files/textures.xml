@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<File>
+
+  <Texture>
+    <filename>resources/sprites/menu_background.png</filename>
+    <name>menu</name>
+  </Texture>
+
+  <Texture>
+    <filename>resources/sprites/button.png</filename>
+    <name>button</name>
+  </Texture>
+
+  <Texture>
+    <filename>resources/sprites/black.png</filename>
+    <name>drawfield</name>
+  </Texture>
+
+  <Texture>
+    <filename>resources/sprites/bullet.png</filename>
+    <name>friendly_bullet</name>
+  </Texture>
+
+  <Texture>
+    <filename>resources/sprites/bullet.png</filename>
+    <name>friendly_large_bullet</name>
+  </Texture>
+
+  <Texture>
+    <filename>resources/sprites/laser_ball.png</filename>
+    <name>friendly_laser_ball</name>
+  </Texture>
+
+  <Texture>
+    <filename>resources/sprites/bullet.png</filename>
+    <name>enemy_bullet</name>
+  </Texture>
+
+  <Texture>
+    <filename>resources/sprites/laser_ball.png</filename>
+    <name>enemy_laser_ball</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/player_ship.png</filename>
+    <name>player_ship</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/space.png</filename>
+    <name>world</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/starcraft.png</filename>
+    <name>enemy_wraith</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/battlecruiser.png</filename>
+    <name>enemy_battlecruiser</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/mutalisk.png</filename>
+    <name>enemy_mutalisk</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/tyrian.png</filename>
+    <name>enemy_tyrian_boss</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/rock_triangle_bottom.png</filename>
+    <name>boundary_block_up</name>
+  </Texture>
+  <Texture>
+    <filename>resources/sprites/rock_triangle_top.png</filename>
+    <name>boundary_block_down</name>
+  </Texture>
+  <Texture>
+    <filename>resources/sprites/rock.png</filename>
+    <name>boundary_block</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/spike.png</filename>
+    <name>obstacle_block</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/spikeball.png</filename>
+    <name>ball_up</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/spikeball.png</filename>
+    <name>ball_down</name>
+  </Texture>
+  
+  <Texture>
+    <filename>resources/sprites/power_up.png</filename>
+    <name>power_up_1</name>
+  </Texture>
+  <Texture>
+    <filename>resources/sprites/power_up.png</filename>
+    <name>power_up_2</name>
+  </Texture>
+
+</File> 

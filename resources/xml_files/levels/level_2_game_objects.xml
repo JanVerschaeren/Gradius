@@ -1,0 +1,148 @@
+
+<?xml version="1.0"?>
+<File>
+
+    <GameObject>
+        <name>friendly_bullet</name>
+        <Factory>
+            <type>bullet</type>
+            <factory>resources/xml_files/entities/friendlies/friendly_bullet.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>friendly_large_bullet</name>
+        <Factory>
+            <type>bullet</type>
+            <factory>resources/xml_files/entities/friendlies/friendly_large_bullet.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>friendly_laser_ball</name>
+        <Factory>
+            <type>bullet</type>
+            <factory>resources/xml_files/entities/friendlies/friendly_laser_ball.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>enemy_bullet</name>
+        <Factory>
+            <type>bullet</type>
+            <factory>resources/xml_files/entities/enemies/enemy_bullet.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>enemy_laser_ball</name>
+        <Factory>
+            <type>bullet</type>
+            <factory>resources/xml_files/entities/enemies/enemy_laser_ball.xml</factory>
+        </Factory>
+    </GameObject>
+
+
+
+    <GameObject>
+        <name>player_ship</name>
+        <Factory>
+            <type>player_ship</type>
+            <factory>resources/xml_files/entities/friendlies/player_ship.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>world</name>
+        <Factory>
+            <type>world</type>
+            <factory>resources/xml_files/entities/world.xml</factory>
+        </Factory>
+    </GameObject>
+
+
+
+    <GameObject>
+        <name>enemy_mutalisk</name>
+        <Factory>
+            <type>ai_ship</type>
+            <factory>resources/xml_files/entities/enemies/enemy_3.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>enemy_tyrian_boss</name>
+        <Factory>
+            <type>ai_ship</type>
+            <factory>resources/xml_files/entities/enemies/enemy_4.xml</factory>
+        </Factory>
+    </GameObject>
+
+
+
+    <GameObject>
+        <name>boundary_block_up</name>
+        <Factory>
+            <type>boundary_block</type>
+            <factory>resources/xml_files/entities/enemies/rock_triangle_bottom.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>boundary_block_down</name>
+        <Factory>
+            <type>boundary_block</type>
+            <factory>resources/xml_files/entities/enemies/rock_triangle_top.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>boundary_block</name>
+        <Factory>
+            <type>boundary_block</type>
+            <factory>resources/xml_files/entities/enemies/rock.xml</factory>
+        </Factory>
+    </GameObject>
+    
+    <GameObject>
+        <name>obstacle_block</name>
+        <Factory>
+            <type>block</type>
+            <factory>resources/xml_files/entities/enemies/spike_block.xml</factory>
+        </Factory>
+    </GameObject>
+
+
+
+    <GameObject>
+        <name>ball_up</name>
+        <Factory>
+            <type>block</type>
+            <factory>resources/xml_files/entities/enemies/ball_up.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>ball_down</name>
+        <Factory>
+            <type>block</type>
+            <factory>resources/xml_files/entities/enemies/ball_down.xml</factory>
+        </Factory>
+    </GameObject>
+
+
+
+    <GameObject>
+        <name>power_up_1</name>
+        <Factory>
+            <type>guns_power_up</type>
+            <factory>resources/xml_files/entities/power_ups/double_guns_power_up.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>power_up_2</name>
+        <Factory>
+            <type>guns_power_up</type>
+            <factory>resources/xml_files/entities/power_ups/double_guns_power_up.xml</factory>
+        </Factory>
+        <Factory>
+            <type>guns_power_up</type>
+            <factory>resources/xml_files/entities/power_ups/aim_assisted_guns_power_up.xml</factory>
+        </Factory>
+        <Factory>
+            <type>guns_power_up</type>
+            <factory>resources/xml_files/entities/power_ups/large_guns_power_up.xml</factory>
+        </Factory>
+    </GameObject>
+</File>

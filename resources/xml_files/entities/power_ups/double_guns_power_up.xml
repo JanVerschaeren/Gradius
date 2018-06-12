@@ -1,0 +1,53 @@
+
+
+<?xml version="1.0"?>
+<File>
+    <x>0</x>
+    <y>0</y>
+    <x_speed>-4</x_speed>
+    <y_speed>0</y_speed>
+    <Point>
+      <x>0</x>
+      <y>-16</y>
+    </Point>
+    <Point>
+      <x>16</x>
+      <y>-6</y>
+    </Point>
+    <Point>
+      <x>16</x>
+      <y>3</y>
+    </Point>
+    <Point>
+      <x>0</x>
+      <y>15</y>
+    </Point>
+    <Point>
+      <x>-16</x>
+      <y>3</y>
+    </Point>
+    <Point>
+      <x>-16</x>
+      <y>-6</y>
+    </Point>
+    
+    <friendly>true</friendly>
+
+
+    <time>200</time>
+    <Gun>
+        <x_relative>-4</x_relative>
+        <y_relative>10</y_relative>
+        <delay>20</delay>
+        <name>friendly_bullet</name>
+        <aim_assist>false</aim_assist>
+    </Gun>
+
+    <Gun>
+        <x_relative>-4</x_relative>
+        <y_relative>-10</y_relative>
+        <delay>20</delay>
+        <name>friendly_bullet</name>
+        <aim_assist>false</aim_assist>
+    </Gun>
+</File>

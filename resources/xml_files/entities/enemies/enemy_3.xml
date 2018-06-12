@@ -1,0 +1,77 @@
+
+
+<?xml version="1.0"?>
+<File>
+    <x>0</x>
+    <y>0</y>
+
+    <Point>
+        <x>-25</x>
+        <y>-10</y>
+    </Point>
+    <Point>
+        <x>-25</x>
+        <y>20</y>
+    </Point>
+    <Point>
+        <x>-5</x>
+        <y>25</y>
+    </Point>
+    <Point>
+        <x>5</x>
+        <y>25</y>
+    </Point>
+
+    <Point>
+        <x>15</x>
+        <y>10</y>
+    </Point>
+    <Point>
+        <x>15</x>
+        <y>-10</y>
+    </Point>
+
+    <Point>
+        <x>5</x>
+        <y>-25</y>
+    </Point>
+    <Point>
+        <x>-5</x>
+        <y>-25</y>
+    </Point>
+
+    <Coordinate>
+        <x>200</x>
+        <y>200</y>
+    </Coordinate>
+    <Coordinate>
+        <x>300</x>
+        <y>300</y>
+    </Coordinate>
+    <Coordinate>
+        <x>300</x>
+        <y>100</y>
+    </Coordinate>
+    <Coordinate>
+        <x>350</x>
+        <y>200</y>
+    </Coordinate>
+
+    <accel>0.2</accel>
+    <decel>0.5</decel>
+    <maxSpeed>6.00</maxSpeed>
+    <i_frames>0</i_frames>
+    <lives>2</lives>
+    <friendly>false</friendly>
+
+    <movement_delay>133</movement_delay>
+    <random_pattern>true</random_pattern>
+
+    <Gun>
+        <x_relative>-25</x_relative>
+        <y_relative>0</y_relative>
+        <delay>15</delay>
+        <name>enemy_laser_ball</name>
+        <aim_assist>false</aim_assist>
+    </Gun>
+</File>

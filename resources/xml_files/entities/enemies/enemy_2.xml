@@ -1,0 +1,100 @@
+
+
+<?xml version="1.0"?>
+<File>
+    <x>0</x>
+    <y>0</y>
+
+    <Point>
+        <x>0</x>
+        <y>-37</y>
+    </Point>
+    <Point>
+        <x>65</x>
+        <y>-37</y>
+    </Point>
+    <Point>
+        <x>75</x>
+        <y>-7</y>
+    </Point>
+    <Point>
+        <x>75</x>
+        <y>7</y>
+    </Point>
+    <Point>
+        <x>65</x>
+        <y>37</y>
+    </Point>
+    <Point>
+        <x>0</x>
+        <y>37</y>
+    </Point>
+    <Point>
+        <x>-65</x>
+        <y>30</y>
+    </Point>
+    <Point>
+        <x>-75</x>
+        <y>7</y>
+    </Point>
+    <Point>
+        <x>-75</x>
+        <y>-7</y>
+    </Point>
+    <Point>
+        <x>-65</x>
+        <y>-30</y>
+    </Point>
+
+    <Coordinate>
+        <x>200</x>
+        <y>200</y>
+    </Coordinate>
+    <Coordinate>
+        <x>350</x>
+        <y>200</y>
+    </Coordinate>
+
+    <Coordinate>
+        <x>250</x>
+        <y>275</y>
+    </Coordinate>
+    <Coordinate>
+        <x>350</x>
+        <y>200</y>
+    </Coordinate>
+
+    <Coordinate>
+        <x>250</x>
+        <y>125</y>
+    </Coordinate>
+    <Coordinate>
+        <x>350</x>
+        <y>200</y>
+    </Coordinate>
+
+    <accel>0.08</accel>
+    <decel>1</decel>
+    <maxSpeed>4</maxSpeed>
+    <i_frames>50</i_frames>
+    <lives>4</lives>
+    <friendly>false</friendly>
+
+    <movement_delay>16</movement_delay>
+    <random_pattern>false</random_pattern>
+
+    <Gun>
+        <x_relative>-15</x_relative>
+        <y_relative>30</y_relative>
+        <delay>30</delay>
+        <name>enemy_bullet</name>
+        <aim_assist>false</aim_assist>
+    </Gun>
+    <Gun>
+        <x_relative>-15</x_relative>
+        <y_relative>-30</y_relative>
+        <delay>30</delay>
+        <name>enemy_bullet</name>
+        <aim_assist>false</aim_assist>
+    </Gun>
+</File>
