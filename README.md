@@ -20,10 +20,12 @@ Your executable should be in the bin folder now.
   - ships have health bars
   - infinite and random border blocks
   - multiple power ups
+  - 3 levels with increasing difficulty
+  - automatic progression towards the next level when you complete a level
   - window manager
   - options menu
   - victory and game over screen
-  - everything is read in from xml files
+  - everything is read from xml files
 
 # Missing features
   - exeption handeling on game breaking xml file manipulations
