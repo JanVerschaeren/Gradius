@@ -2,7 +2,7 @@
 
 1) Download both the "resources" map and the "gradius" file on an Ubuntu machine.
 2) Install SFML
-3) Make the file executable (with chmod +x or by right clicking then picking properties -> permissions -> allow execution)
+3) Make the "Gradius" file executable (with chmod +x or by right clicking then picking properties -> permissions -> allow execution)
 
 The game should be executable now.
 
