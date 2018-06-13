@@ -126,7 +126,19 @@
         <x>424</x>
         <y>200</y>
         <factory>enemy_mutalisk</factory>
-        <delay>210</delay>
+        <delay>0</delay>
+    </Spawn>
+    <Spawn>
+        <x>419</x>
+        <y>350</y>
+        <factory>enemy_wraith</factory>
+        <delay>0</delay>
+    </Spawn>
+    <Spawn>
+        <x>419</x>
+        <y>50</y>
+        <factory>enemy_wraith</factory>
+        <delay>30</delay>
     </Spawn>
 
 
@@ -140,13 +152,33 @@
         <x>449</x>
         <y>300</y>
         <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+
+    <Spawn>
+        <x>449</x>
+        <y>150</y>
+        <factory>obstacle_block</factory>
         <delay>0</delay>
     </Spawn>
     <Spawn>
-        <x>415</x>
-        <y>200</y>
-        <factory>power_up_1</factory>
-        <delay>45</delay>
+        <x>449</x>
+        <y>250</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+
+    <Spawn>
+        <x>449</x>
+        <y>100</y>
+        <factory>obstacle_block</factory>
+        <delay>0</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>300</y>
+        <factory>obstacle_block</factory>
+        <delay>30</delay>
     </Spawn>
 
 
@@ -156,50 +188,160 @@
         <factory>enemy_mutalisk</factory>
         <delay>0</delay>
     </Spawn>
+    <Spawn>
+        <x>424</x>
+        <y>200</y>
+        <factory>enemy_mutalisk</factory>
+        <delay>0</delay>
+    </Spawn>
+    <Spawn>
+        <x>424</x>
+        <y>200</y>
+        <factory>enemy_mutalisk</factory>
+        <delay>270</delay>
+    </Spawn>
 
 
     <Spawn>
         <x>449</x>
         <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>415</x>
+        <y>100</y>
+        <factory>power_up_1</factory>
+        <delay>0</delay>
+    </Spawn>
+    <Spawn>
+        <x>415</x>
+        <y>300</y>
+        <factory>power_up_2</factory>
+        <delay>0</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>0</delay>
+    </Spawn>
+    <Spawn>
+        <x>474</x>
+        <y>200</y>
         <factory>enemy_battlecruiser</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>obstacle_block</factory>
+        <delay>51</delay>
+    </Spawn>
+
+
+    <Spawn>
+        <x>449</x>
+        <y>200</y>
+        <factory>enemy_tyrian_boss</factory>
         <delay>90</delay>
     </Spawn>
-    <Spawn>
-        <x>449</x>
-        <y>100</y>
-        <factory>obstacle_block</factory>
-        <delay>0</delay>
-    </Spawn>
-    <Spawn>
-        <x>449</x>
-        <y>300</y>
-        <factory>obstacle_block</factory>
-        <delay>102</delay>
-    </Spawn>
 
 
     <Spawn>
-        <x>449</x>
-        <y>75</y>
-        <factory>obstacle_block</factory>
+        <x>424</x>
+        <y>400</y>
+        <factory>ball_up</factory>
         <delay>0</delay>
     </Spawn>
     <Spawn>
-        <x>449</x>
-        <y>175</y>
-        <factory>obstacle_block</factory>
+        <x>424</x>
+        <y>0</y>
+        <factory>ball_down</factory>
+        <delay>20</delay>
+    </Spawn>
+    <Spawn>
+        <x>424</x>
+        <y>400</y>
+        <factory>ball_up</factory>
         <delay>0</delay>
     </Spawn>
     <Spawn>
-        <x>449</x>
-        <y>225</y>
-        <factory>obstacle_block</factory>
+        <x>424</x>
+        <y>0</y>
+        <factory>ball_down</factory>
+        <delay>20</delay>
+    </Spawn>
+    <Spawn>
+        <x>424</x>
+        <y>400</y>
+        <factory>ball_up</factory>
         <delay>0</delay>
     </Spawn>
     <Spawn>
-        <x>449</x>
-        <y>325</y>
-        <factory>obstacle_block</factory>
+        <x>424</x>
+        <y>0</y>
+        <factory>ball_down</factory>
+        <delay>20</delay>
+    </Spawn>
+    <Spawn>
+        <x>424</x>
+        <y>400</y>
+        <factory>ball_up</factory>
         <delay>0</delay>
+    </Spawn>
+    <Spawn>
+        <x>424</x>
+        <y>0</y>
+        <factory>ball_down</factory>
+        <delay>20</delay>
     </Spawn>
 </File>

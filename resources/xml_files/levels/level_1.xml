@@ -156,7 +156,7 @@
         <x>415</x>
         <y>200</y>
         <factory>power_up_1</factory>
-        <delay>0</delay>
+        <delay>30</delay>
     </Spawn>
 
 

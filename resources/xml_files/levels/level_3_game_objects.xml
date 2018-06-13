@@ -58,6 +58,13 @@
 
 
     <GameObject>
+        <name>enemy_wraith</name>
+        <Factory>
+            <type>ai_ship</type>
+            <factory>resources/xml_files/entities/enemies/enemy_1.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
         <name>enemy_battlecruiser</name>
         <Factory>
             <type>ai_ship</type>
@@ -69,6 +76,13 @@
         <Factory>
             <type>ai_ship</type>
             <factory>resources/xml_files/entities/enemies/enemy_3.xml</factory>
+        </Factory>
+    </GameObject>
+    <GameObject>
+        <name>enemy_tyrian_boss</name>
+        <Factory>
+            <type>ai_ship</type>
+            <factory>resources/xml_files/entities/enemies/enemy_4.xml</factory>
         </Factory>
     </GameObject>
 
@@ -126,12 +140,15 @@
     <GameObject>
         <name>power_up_1</name>
         <Factory>
-            <type>guns_power_up</type>
-            <factory>resources/xml_files/entities/power_ups/aim_assisted_guns_power_up.xml</factory>
+            <type>speed_power_up</type>
+            <factory>resources/xml_files/entities/power_ups/speed_power_up.xml</factory>
         </Factory>
+    </GameObject>
+    <GameObject>
+        <name>power_up_2</name>
         <Factory>
             <type>guns_power_up</type>
-            <factory>resources/xml_files/entities/power_ups/large_guns_power_up.xml</factory>
+            <factory>resources/xml_files/entities/power_ups/aim_assisted_guns_power_up.xml</factory>
         </Factory>
     </GameObject>
 </File>
